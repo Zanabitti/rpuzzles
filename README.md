@@ -1,1 +1,1 @@
-Reaktor Humanoid hunt(2020) puzzles & solutions 
+rhh(2020) puzzles
